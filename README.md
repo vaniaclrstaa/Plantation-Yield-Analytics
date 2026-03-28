@@ -25,7 +25,7 @@ The interactive Power BI dashboard provides three main insights:
 3. **Estate Benchmarking & Correlation:** - Top 10 Estates by Yield.
    - Scatter plot proving the correlation between temperature and soil moisture density.
 
-![Dashboard Preview](plantation_dashboard_final.png) 
+![Dashboard Preview]
 <img width="847" height="661" alt="image" src="https://github.com/user-attachments/assets/3ef0d816-46ac-48e3-bed0-83e857b677c7" />
 <img width="854" height="664" alt="image" src="https://github.com/user-attachments/assets/f818796c-a5ab-4fca-a37b-661e3d9b3ebe" />
 
