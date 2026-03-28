@@ -1,0 +1,4 @@
+*.csv
+data_historis/
+data_masuk/
+__pycache__/
